@@ -1,0 +1,15 @@
+.btn-primary{
+    background-color: #66428a;
+    border-color: #66428a;
+}
+
+.btn-primary:hover{
+    background-color: white;
+    color: #66428a;
+    border-color: white;
+}
+
+.h1{
+    text-align: center;
+    align-self: center;
+}
